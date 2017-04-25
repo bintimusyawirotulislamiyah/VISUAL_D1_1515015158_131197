@@ -1,5 +1,5 @@
 
-package Posttest6;
+package Posttest9;
 import java.sql.*;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
